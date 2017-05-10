@@ -1,6 +1,6 @@
 {
   "name": "graph-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fonts used by graph",
   "main": "index.js",
   "scripts": {
