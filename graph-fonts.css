@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fonticons';
-  src: url('fonts/fonticons.eot?99144359');
-  src: url('fonts/fonticons.eot?99144359#iefix') format('embedded-opentype'),
-       url('fonts/fonticons.woff?99144359') format('woff'),
-       url('fonts/fonticons.ttf?99144359') format('truetype'),
-       url('fonts/fonticons.svg?99144359#fonticons') format('svg');
+  src: url('fonts/fonticons/fonticons.eot?99144359');
+  src: url('fonts/fonticons/fonticons.eot?99144359#iefix') format('embedded-opentype'),
+       url('fonts/fonticons/fonticons.woff?99144359') format('woff'),
+       url('fonts/fonticons/fonticons.ttf?99144359') format('truetype'),
+       url('fonts/fonticons/fonticons.svg?99144359#fonticons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -58,11 +58,11 @@
 
 @font-face {
     font-family: 'bpmn';
-    src: url('fonts/bpmn.eot?70672887');
-    src: url('fonts/bpmn.eot?70672887#iefix') format('embedded-opentype'),
-         url('fonts/bpmn.woff?70672887') format('woff'),
-         url('fonts/bpmn.ttf?70672887') format('truetype'),
-         url('fonts/bpmn.svg?70672887#bpmn') format('svg');
+    src: url('fonts/bpmn/bpmn.eot?70672887');
+    src: url('fonts/bpmn/bpmn.eot?70672887#iefix') format('embedded-opentype'),
+         url('fonts/bpmn/bpmn.woff?70672887') format('woff'),
+         url('fonts/bpmn/bpmn.ttf?70672887') format('truetype'),
+         url('fonts/bpmn/bpmn.svg?70672887#bpmn') format('svg');
     font-weight: normal;
     font-style: normal;
 }
